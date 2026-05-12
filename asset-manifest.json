@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ita_tv-final/static/css/main.e6c13ad2.css",
+    "main.js": "/ita_tv-final/static/js/main.cd103c6c.js",
+    "static/js/453.03e6f042.chunk.js": "/ita_tv-final/static/js/453.03e6f042.chunk.js",
+    "index.html": "/ita_tv-final/index.html",
+    "main.e6c13ad2.css.map": "/ita_tv-final/static/css/main.e6c13ad2.css.map",
+    "main.cd103c6c.js.map": "/ita_tv-final/static/js/main.cd103c6c.js.map",
+    "453.03e6f042.chunk.js.map": "/ita_tv-final/static/js/453.03e6f042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cd103c6c.js"
+  ]
+}
