@@ -26,4 +26,3 @@ Built as a practical digital learning and broadcasting platform to expand access
 
 ## Developer & Administrator
 * **Felix Chisenga**
-* 
